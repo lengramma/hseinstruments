@@ -1,6 +1,6 @@
 # Компьютерные инструменты лингвистического исследования
 __Фундаментальная и компьютерная лингвистика НИУ ВШЭ__, бакалавриат 1 курс, 1-2 модуль  
-__Преподаватели__: Ольга Николаевна Ляшевская (olesar@yandex.ru, группа 3 и 4), Елена Валерьевна Грамматчикова (lengramma@gmail.com, группа 1 и 2), Школа лингвистики НИУ ВШЭ  
+__Преподаватели__: Ольга Николаевна Ляшевская (olesar@yandex.ru, группа 3 и 4), Елена Викторовна Грамматчикова (lengramma@gmail.com, группа 1 и 2), Школа лингвистики НИУ ВШЭ  
 __Учебные ассистенты__: Анастасия Давиденко (avdavidenko@edu.hse.ru, группа 3 и 4), Ольга Пичужкина (olga-p-98@mail.ru, группа 1 и 2)  
 <a href="https://github.com/olesar/hseinstruments/edit/master/README.md">Страница курса</a> :blush: <a href="https://goo.gl/WUhpHb">Оценки</a> :yum: <a href="https://github.com/olesar/hseinstruments/blob/master/Info/Как-выставляется-оценка-по-курсу%3F.md">Как выставляются оценки за курс</a> :sunglasses: <a href="https://github.com/olesar/hseinstruments/blob/master/Info/FAQ.md">FAQ</a>
 
