@@ -44,7 +44,7 @@
  
 #### ШАГ 3
 Вы копируете все свои сроки в общую гугл-док-таблицу, вывешенную онлайн -- на то место, где находится ваша зона таблицы.
-[https://docs.google.com/spreadsheets/d/1xKmNqQLQV8h_ZLg0kfNG48-sWvNTx6etz7dk6by0zss/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1xKmNqQLQV8h_ZLg0kfNG48-sWvNTx6etz7dk6by0zss/edit?usp=sharing). 
+[https://docs.google.com/spreadsheets/d/1UPrWbZIO6d4kW7renp41ES12PUam3JgV9BYdxw0RbUA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1UPrWbZIO6d4kW7renp41ES12PUam3JgV9BYdxw0RbUA/edit?usp=sharing). 
 Проверьте, что вы при этом не затерли ничего чужого. Сданные материалы с затертыми столбцами A,B,O,P получат 0 баллов.
 Если у вас возникают проблемы с открыванием большого файла и записыванием в большой общий файл, обращайтесь к ассистентам.  
 В дополнение к общей таблице, вы помещаете размеченную лично вами таблицу в папку LiveCorpus вашего репозитория на github, в двух вариантах: .xls/.xlsx и csv (текстовый файл с разделителями табуляции). Эти файлы понадобятся нам для будущих заданий.   
