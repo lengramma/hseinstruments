@@ -5,8 +5,7 @@
 Расшифровка вашей записи для LiveCorpus. Файлы, сданные в ходе предшествующего домашнего задания (вида velosipedy.2.txt), были размечены программой Никиты Медянкина (морфологический и синтаксический анализатор, обученный на снятом корпусе НКРЯ, [http://web-corpora.net/wsgi3/ru-syntax](http://web-corpora.net/wsgi3/ru-syntax))
 Эта программа сама выбирает наиболее вероятный грамматический разбор (с учетом контекста). Нужно иметь в виду, что программа неплохо справляется с определением части речи и лемматизацией, но довольно посредственно - с выбором правильных грамматических помет, таких как падежи.
 Общий файл, в который слиты все записи, лежит тут:
-[https://drive.google.com/file/d/196aR9536C3-3yBkvVVErhUaG0UyqHEu8/view?usp=sharing]
-(https://drive.google.com/file/d/196aR9536C3-3yBkvVVErhUaG0UyqHEu8/view?usp=sharing)
+[https://drive.google.com/file/d/196aR9536C3-3yBkvVVErhUaG0UyqHEu8/view?usp=sharing](https://drive.google.com/file/d/196aR9536C3-3yBkvVVErhUaG0UyqHEu8/view?usp=sharing)
 
 ## Задача
 Задача состоит в том, чтобы ОЧЕНЬ ВНИМАТЕЛЬНО посмотреть на разборы, найти как можно больше ошибок в них и все исправить.
